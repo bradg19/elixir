@@ -11,7 +11,7 @@
     <meta name="description" content="Stout is a web development company that helps small size contractors stand out with high end websites." />
     <meta name="keywords" content="Marketing, landing page, creative, contractor, web design, web development" />
     <!-- favicon -->
-    <link rel="shortcut icon" href="/assets/images/icon/favicon.png">
+    <link rel="shortcut icon" href="/assets/images/icon/favicon.png?v=1">
     <!-- animation -->
     <link rel="stylesheet" href="/assets/css/animate.css" />
     <!-- bootstrap -->
@@ -40,6 +40,15 @@
     <style>
         .btn-dual .btn { margin: 0 12px 0 0;}
     </style>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=1">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=1">
+    <link rel="manifest" href="/site.webmanifest?v=1">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg?v=1" color="##5bbad5">
+    <meta name="msapplication-TileColor" content="##00a300">
+    <meta name="theme-color" content="##ffffff">
+
 </head>
 <body>
 	<!---Top NavBar --->	
@@ -50,7 +59,7 @@
                 <div class="row">
                     <!-- logo -->
                     <div class="col-md-3 col-sm-4 col-xs-6">
-                        <a href="##home" class="inner-link"><img alt="" src="/assets/images/logo-white.png" data-img-size="(W)163px X (H)40px"></a>
+                        <a href="##home" class="inner-link"><img alt="" src="/assets/images/logo2.png" data-img-size="(W)163px X (H)40px"></a>
                     </div>
                     <!-- end logo -->
                     <div class="col-md-9 col-sm-8 col-xs-6 position-inherit xs-no-padding-left">
@@ -102,7 +111,7 @@
                 <!-- end logo -->
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 sm-margin-three-bottom text-center xs-text-center display-table">
                     <div class="display-table-cell-vertical-middle">
-                        <span class="tz-text">&copy; #dateformat(now(), 'YYYY')# Stout LLC. All Rights Reserved.</span>
+                        <span class="tz-text">&copy; #dateformat(now(), 'YYYY')# Stout Web LLC. All Rights Reserved.</span>
                     </div>
                 </div>
                 <!-- social elements -->

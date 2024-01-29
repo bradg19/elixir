@@ -10,7 +10,7 @@
                             <div class="text-white text-extra-large font-weight-300 center-col xs-text-extra-large tz-text margin-eight-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom"><p class="sm-width-80 center-col">Nail the sale. Impress your customers with a beautiful website.</p></div>
                             <!-- end title -->
                             <div class="btn-dual">
-                                <a class="btn btn-large propClone bg-golden-yellow text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#subscribe-section6"><span class="tz-text">CONTACT US</span><i class="fa fa-angle-right text-extra-medium tz-icon-color"></i></a>
+                                <a class="btn btn-large propClone bg-golden-yellow text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#subscribe-section6"><span class="tz-text">CONTACT US</span><i class="fa fa-envelope-o text-extra-medium tz-icon-color"></i></a>
                                 <a class="btn btn-large propClone bg-white text-black btn-circle xs-margin-ten-bottom xs-width-100" href="#feature-section27"><span class="tz-text">READ MORE</span><i class="fa fa-angle-right text-extra-medium tz-icon-color"></i></a>
                             </div>
                         </div>
@@ -41,7 +41,7 @@
             <!-- feature box -->
             <div class="col-md-4 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
                 <div class="feature-box">     
-                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa ti-desktop text-fast-blue2 icon-large tz-icon-color"></i></div>
+                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa fa-handshake-o text-fast-blue2 icon-large tz-icon-color"></i></div>
                     <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">Boost Trust</h3>
                     <div class="feature-text text-medium center-col tz-text"><p class="no-margin-bottom">94% of users will leave a website simply because of low-quality design. 75% of a company's credibility is based on website design.</p></div>
                 </div>
@@ -50,7 +50,7 @@
             <!-- feature box -->
             <div class="col-md-4 col-sm-6 col-xs-12 sm-margin-nine-bottom xs-margin-fifteen-bottom text-center">
                 <div class="feature-box">
-                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa ti-clipboard text-fast-blue2 icon-large tz-icon-color"></i></div>
+                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa fa-line-chart text-fast-blue2 icon-large tz-icon-color"></i></div>
                     <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">Drive Sales</h3>
                     <div class="feature-text text-medium center-col tz-text"><p class="no-margin-bottom">Having a great website is one of the best tools your business can have. With the capacity to boost your sales and bottom line, a great website works for your business 24/7 while you sleep.</p></div>
                 </div>
@@ -59,7 +59,7 @@
             <!-- feature box -->
             <div class="col-md-4 col-sm-6 col-xs-12 text-center xs-margin-fifteen-bottom">
                 <div class="feature-box">
-                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa ti-settings text-fast-blue2 icon-large tz-icon-color"></i></div>
+                    <div class="margin-fifteen-bottom xs-margin-five-bottom"><i class="fa fa-laptop text-fast-blue2 icon-large tz-icon-color"></i></div>
                     <h3 class="feature-title text-dark-gray text-medium alt-font font-weight-600 display-block margin-three-bottom xs-margin-five-bottom tz-text">We Do The Hard Part</h3>
                     <div class="feature-text text-medium center-col tz-text"><p class="no-margin-bottom">Let us handle the dirty work. We will provide a few high quality design templates to choose from at an affordable monthly price.</p></div>
                 </div>
@@ -73,7 +73,7 @@
         <div class="row equalize xs-equalize-auto equalize-display-inherit">
             <div class="col-md-6 display-table col-sm-12 col-xs-12 xs-margin-nineteen-bottom sm-height-auto">
                 <div class="display-table-cell-vertical-middle">
-                    <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom" src="/assets/images/infographic-2.png" data-img-size="(W)984px X (H)1376px" alt="">
+                    <img class="img-responsive sm-width-60 xs-width-100 margin-lr-auto sm-margin-twenty-bottom border-bottom" src="/assets/images/infographic-2.png" data-img-size="(W)984px X (H)1376px" alt="">
                 </div>
             </div>
             <div class="col-md-6 col-sm-12 col-xs-12 display-table sm-height-auto">
@@ -87,28 +87,28 @@
                     <!-- feature box -->
                     <div class="row two-column no-margin">
                         <div class="col-md-6 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-fifteen-bottom xs-text-center">
-                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa ti-crown text-fast-blue2 title-extra-large tz-icon-color"></i></div>
+                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa fa-users text-fast-blue2 title-extra-large tz-icon-color"></i></div>
                             <div class="info xs-no-margin xs-width-100 xs-clear-both">
                                 <h3 class="text-large alt-font margin-two-bottom text-dark-gray tz-text font-weight-600">User Friendly</h3>
-                                <div class="text-medium tz-text"><p>Single page designs that achieve quick visibility. Allow your customers to see all of your skills and abilities in one spot.</p></div>
+                                <div class="text-medium tz-text"><p>Single page designs that achieve quick visibility. Allowing your customers to see all of your skills and abilities in one spot.</p></div>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12 margin-eight-bottom xs-margin-fifteen-bottom xs-text-center">
-                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa ti-bookmark-alt text-fast-blue2 title-extra-large tz-icon-color"></i></div>
+                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa fa-bolt text-fast-blue2 title-extra-large tz-icon-color"></i></div>
                             <div class="info xs-no-margin xs-width-100 xs-clear-both">
                                 <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600">Instant Communication</h3>
-                                <div class="text-medium tz-text"><p>With a contact form for your customers we can have it sent directly to your email or phone.</p></div>
+                                <div class="text-medium tz-text"><p>With a contact form for your customers we can have it sent directly to your email and phone.</p></div>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12 xs-margin-fifteen-bottom xs-text-center">
-                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa ti-filter text-fast-blue2 title-extra-large tz-icon-color"></i></div>
+                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa fa-google text-fast-blue2 title-extra-large tz-icon-color"></i></div>
                             <div class="info xs-no-margin xs-width-100 xs-clear-both">
-                                <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600">Allow appointment scheduling<br/>(coming soon)</h3>
-                                <div class="text-medium tz-text"><p>Sync your online calendar to allow customers to book time slots.</p></div>
+                                <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600">Get on Google</h3>
+                                <div class="text-medium tz-text"><p>Get listed on Google and show customers your services, reviews and more.</p></div>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12 xs-no-margin-bottom xs-text-center">
-                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa ti-heart text-fast-blue2 title-extra-large tz-icon-color"></i></div>
+                            <div class="float-left xs-margin-lr-auto xs-float-none xs-margin-seven-bottom"><i class="fa fa-picture-o text-fast-blue2 title-extra-large tz-icon-color"></i></div>
                             <div class="info xs-no-margin xs-width-100 xs-clear-both">
                                 <h3 class="text-large alt-font margin-two-bottom text-black tz-text font-weight-600">Showcase your work</h3>
                                 <div class="text-medium tz-text"><p>Show off your hard work for potentian clients.</p></div>
@@ -145,7 +145,7 @@
                         <h1 class="title-extra-large-4 md-title-extra-large-3 line-height-65 sm-title-extra-large alt-font letter-spacing-minus-1 xs-title-extra-large text-white margin-eight-bottom sm-margin-four-bottom tz-text">Don't be discouraged when a potential client asks for your website.</h1>
                         <div class="text-white title-small line-height-34 font-weight-100 width-100 xs-text-extra-large tz-text margin-thirteen-bottom sm-margin-six-bottom xs-margin-eleven-bottom sm-margin-nine-bottom"><p>Feel confident that your new website will help get the sale.</p></div>
                         <div class="btn-dual">
-                            <a class="btn btn-large btn-circle propClone bg-white text-dark-gray xs-margin-lr-auto xs-float-none xs-display-block" href="#"><span class="tz-text">CONTACT US</span><i class="fa fa-angle-right text-extra-medium tz-icon-color"></i></a>
+                            <a class="btn btn-large btn-circle propClone bg-white text-dark-gray xs-margin-lr-auto xs-float-none xs-display-block" href="#subscribe-section6"><span class="tz-text">CONTACT US</span><i class="fa fa-envelope-o text-extra-medium tz-icon-color"></i></a>
                         </div>
                     </div>
                     <!-- end slider text -->
@@ -230,9 +230,9 @@
                         <!-- pricing features -->
                         <div class="pricing-features padding-top-15px">
                             <ul class="margin-twenty-three-bottom list-style-none">
-                                <li class="tz-border"><span class="tz-text">Purchase Your Domain</span></li>
+                                <li class="tz-border"><span class="tz-text">Purchase Your Domain/Use Existing</span></li>
                                 <li class="tz-border"><span class="tz-text">Build Your Site</span></li>
-                                <li class="tz-border"><span class="tz-text">Get You Started</span></li>
+                                <li class="tz-border"><span class="tz-text">Get on Google</span></li>
                             </ul>
                             <!-- pricing action -->
                             <!--- <div class="pricing-action">

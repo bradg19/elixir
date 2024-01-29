@@ -11,7 +11,7 @@ component {
 	 * Application Properties: Modify as you see fit!
 	 * --------------------------------------------------------------------------
 	 */
-	this.name                 = "My ColdBox Application";
+	this.name                 = "Stout";
 	this.sessionManagement    = true;
 	this.sessionTimeout       = createTimespan( 0, 1, 0, 0 );
 	this.setClientCookies     = true;
@@ -66,7 +66,7 @@ component {
 	 * ORM + Datasource Settings
 	 * --------------------------------------------------------------------------
 	 */
-	this.datasource = "coldbox";
+	this.datasources["coldbox"] = {};
 
 	/**
 	 * Fires when the application starts

@@ -28,9 +28,9 @@ component {
 		} );
 
 		// A nice RESTFul Route example
-		route( "/api/echo", function( event, rc, prc ){
-			return { "error" : false, "data" : "Welcome to my awesome API!" };
-		} );
+		// route( "/api/echo", function( event, rc, prc ){
+		// 	return { "error" : false, "data" : "Welcome to my awesome API!" };
+		// } );
 
 		// @app_routes@
 

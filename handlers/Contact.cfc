@@ -1,26 +1,14 @@
-component extends="coldbox.system.EventHandler" {
+component name="ContactHandler" extends="coldbox.system.EventHandler" {
+
 
 	/**
 	 * Default Action
 	 */
 	function index( event, rc, prc ){
+		writeDump(prc);
 		event.setView( "main/contact" );
-		aws = new modules.awscfml.aws(awsKey = getSystemSetting('S3_ACCESS_KEY'), awsSecretKey = getSystemSetting('S3_SECRET_KEY'), defaultRegion = getSystemSetting('S3_REGION'));
-		result = aws.dynamodb.putItem('stout_leads', {
-	        "PostDateTime": {
-	            "S": "#now()#"
-	        },
-	        "Email": {
-	            "S": "#form.email#"
-	        },
-	        "Name": {
-	            "S": "#form.name#"
-	        },
-	        "Phone": {
-	            "S": "#form.phone#"
-	        }
-	    });
-	    writeDump(result);
+		var contactService = new models.ContactService();
+		contactService.saveContactData(prc);
 	}
 
 	/**
